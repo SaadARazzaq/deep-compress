@@ -27,6 +27,13 @@
 ### 📅 Chronological View
 - [2025](#2025)
 - [2024](#2024)
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
 
 ---
 
@@ -360,6 +367,141 @@
 - [Implicit Neural Image Field for Biological Microscopy Image Compression](https://ieeexplore.ieee.org/abstract/document/10647328)
 - [Learning Content-Weighted Pseudocylindrical Representation for 360° Image Compression](https://ieeexplore.ieee.org/abstract/document/10721338)
 
+### <span id="2023">2023</span>
+
+**NeurIPS 2023**
+- [Towards efficient image compression without autoregressive models](https://openreview.net/pdf?id=1ihGy9vAIg) | Ali et al.
+- [LUT-LIC: Look-Up Table-Assisted Learned Image Compression](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_34) | Yu & Lee
+
+**ACMMM 2023**
+- [Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach](https://dl.acm.org/doi/pdf/10.1145/3581783.3611851) | Guo et al.
+- [Nif: A fast implicit image compression with bottleneck layers and modulated sinusoidal activations](https://dl.acm.org/doi/pdf/10.1145/3581783.3613834) | Catania & Allegra
+- [Lambda-Domain Rate Control for Neural Image Compression](https://dl.acm.org/doi/pdf/10.1145/3595916.3626372) | Xue & Zhang
+- [MLIC: Multi-Reference Entropy Model for Learned Image Compression](https://dl.acm.org/doi/pdf/10.1145/3581783.3611694) | Jiang et al.
+- [ELFIC: A Learning-based Flexible Image Codec with Rate-Distortion-Complexity Optimization](https://dl.acm.org/doi/pdf/10.1145/3581783.3612540) | Zhang et al.
+- [ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision](https://dl.acm.org/doi/pdf/10.1145/3581783.3612041) | Liu et al.
+
+**CVPR 2023**
+- [Dec-Adapter: Exploring Efficient Decoder-Side Adapter for Bridging Screen Content and Natural Image Compression](https://openaccess.thecvf.com/content/ICCV2023/papers/Shen_Dec-Adapter_Exploring_Efficient_Decoder-Side_Adapter_for_Bridging_Screen_Content_and_ICCV_2023_paper.pdf) | Shen et al.
+- [Context-Based Trit-Plane Coding for Progressive Image Compression](https://arxiv.org/pdf/2303.05715.pdf) | Jeon et al.
+- [Transtic: Transferring transformer-based image compression from human perception to machine perception](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransTIC_Transferring_Transformer-based_Image_Compression_from_Human_Perception_to_Machine_ICCV_2023_paper.pdf) | Chen et al.
+
+**ICCV 2023**
+- [COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_COMPASS_High-Efficiency_Deep_Image_Compression_with_Arbitrary-scale_Spatial_Scalability_ICCV_2023_paper.pdf) | Park et al.
+- [AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing](https://openaccess.thecvf.com/content/ICCV2023/papers/Tao_AdaNIC_Towards_Practical_Neural_Image_Compression_via_Dynamic_Transform_Routing_ICCV_2023_paper.pdf) | Tao et al.
+
+**TIP 2023**
+- [Learned Image Compression Using Cross-Component Attention Mechanism](https://ieeexplore.ieee.org/document/10268865/) | Duan et al.
+- [Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372532) | Mao et al.
+
+**TCSVT 2023**
+- [MASIC: Deep Mask Stereo Image Compression](https://ieeexplore.ieee.org/iel7/76/4358651/10061473.pdf) | Deng et al.
+- [Extremely Low Bit-rate Image Compression via Invertible Image Generation](https://ieeexplore.ieee.org/document/10256132) | Gao et al.
+- [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/document/10256132) | Yang et al.
+- [Rethinking semantic image compression: Scalable representation with cross-modality transfer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10032603) | Zhang et al.
+
+**ICIP 2023**
+- [A Decoupled Spatial-Channel Inverted Bottleneck For Image Compression](https://ieeexplore.ieee.org/abstract/document/10222366) | Hu et al.
+- [NUCQ: Non-Uniform Conditional Quantization for Learned Image Compression](https://ieeexplore.ieee.org/abstract/document/10222198) | Ge et al.
+- [Advancing the Rate-Distortion-Computation Frontier for Neural Image Compression](https://ieeexplore.ieee.org/abstract/document/10222381) | Minnen & Johnston
+- [Edge-Guided Remote-Sensing Image Compression](https://ieeexplore.ieee.org/abstract/document/10247080) | Han et al.
+
+**arXiv 2023**
+- [EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation](https://arxiv.org/pdf/2309.03244.pdf) | Körber et al.
+- [A Training-Free Defense Framework for Robust Learned Image Compression](https://arxiv.org/pdf/2401.11902.pdf) | Song et al.
+- [FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information](https://arxiv.org/pdf/2312.16963.pdf) | Xia et al.
+- [Another Way to the Top: Exploit Contextual Clustering in Learned Image Coding](https://arxiv.org/pdf/2401.11615.pdf) | Zhang et al.
+
+### <span id="2022">2022</span> 
+
+**CVPR 2022**
+- [ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding](https://openaccess.thecvf.com/content/CVPR2022/papers/He_ELIC_Efficient_Learned_Image_Compression_With_Unevenly_Grouped_Space-Channel_Contextual_CVPR_2022_paper.pdf) | He et al.
+- [The Devil Is in the Details: Window-Based Attention for Image Compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_The_Devil_Is_in_the_Details_Window-Based_Attention_for_Image_CVPR_2022_paper.pdf) | Zou et al.
+- [Joint Global and Local Hierarchical Priors for Learned Image Compression](https://arxiv.org/pdf/2112.04487.pdf) | Kim et al.
+- [Neural Data-Dependent Transform for Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Data-Dependent_Transform_for_Learned_Image_Compression_CVPR_2022_paper.pdf) | Wang et al.
+
+**ECCV 2022**
+- [Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression](https://arxiv.org/pdf/2203.02452.pdf) | Koyuncu et al.
+- [Content-Oriented Learned Image Compression](https://link.springer.com/content/pdf/10.1007/978-3-031-19800-7_37.pdf) | Li et al.
+- [Implicit Neural Representations for Image Compression](https://arxiv.org/pdf/2112.04267.pdf) | Strümpeler et al.
+- [Content Adaptive Latents and Decoder for Neural Image Compression](https://arxiv.org/pdf/2212.10132.pdf) | Pan et al.
+
+**NeurIPS 2022**
+- [Lossy Compression with Gaussian Diffusion](https://arxiv.org/pdf/2206.08889.pdf) | Theis et al.
+
+**ICLR 2022**
+- [Hierarchical Image Compression Framework](https://openreview.net/pdf?id=8rPXT-SVgjh) | Ge et al.
+
+**TIP 2022**
+- [Learning end-to-end lossy image compression: A benchmark](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9376651) | Hu et al.
+- [End-to-end optimized 360° image compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9904466) | Li et al.
+
+**TCSVT 2022**
+- [End-to-End Optimized Image Compression With Deep Gaussian Process Regression](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9903432) | Cao et al.
+
+**CVPRW 2022**
+- [Self-Supervised Variable Rate Image Compression using Visual Attention](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Sinha_Self-Supervised_Variable_Rate_Image_Compression_Using_Visual_Attention_CVPRW_2022_paper.pdf) | Sinha et al.
+- [User-Guided Variable Rate Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Gupta_User-Guided_Variable_Rate_Learned_Image_Compression_CVPRW_2022_paper.pdf) | Gupta et al.
+
+**arXiv 2022**
+- [Entroformer: A transformer-based entropy model for learned image compression](https://arxiv.org/pdf/2202.05492.pdf) | Qian et al.
+- [Multi-Sample Training for Neural Image Compression](https://arxiv.org/pdf/2209.13834.pdf) | Xu et al.
+- [Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression](https://arxiv.org/pdf/2203.10897.pdf) | Zhu et al.
+- [Deep Lossy Plus Residual Coding for Lossless and Near-lossless Image Compression](https://arxiv.org/pdf/2209.04847.pdf) | Bai et al.
+
+### <span id="2021">2021</span>
+
+**CVPR 2021**
+- [Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation](https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.pdf) | Cui et al.
+- [Checkerboard context model for efficient learned image compression](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Checkerboard_Context_Model_for_Efficient_Learned_Image_Compression_CVPR_2021_paper.pdf) | He et al.
+- [Learning scalable ly=-constrained near-lossless image compression via joint lossy image and residual compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Learning_Scalable_lY-Constrained_Near-Lossless_Image_Compression_via_Joint_Lossy_Image_CVPR_2021_paper.pdf) | Bai et al.
+
+**ICCV 2021**
+- [Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf) | Song et al.
+
+**ACMMM 2021**
+- [Enhanced Invertible Encoding for Learned Image Compression](https://dl.acm.org/doi/pdf/10.1145/3474085.3475213) | Xie et al.
+- [Semantic Scalable Image Compression with Cross-Layer Priors](https://dl.acm.org/doi/pdf/10.1145/3474085.3475533) | Tu et al.
+- [Interpolation Variable Rate Image Compression](https://dl.acm.org/doi/pdf/10.1145/3474085.3475698) | Sun et al.
+
+**TCSVT 2021**
+- [Causal contextual prediction for learned image compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9455349) | Guo et al.
+- [Learned Block-based Hybrid Image Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9455349) | Wu et al.
+
+**TIP 2021**
+- [Semantic Perceptual Image Compression With a Laplacian Pyramid of Convolutional Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9381614) | Wang et al.
+
+**arXiv 2021**
+- [Learned Image Compression for Machine Perception](https://arxiv.org/pdf/2111.02249.pdf) | Codevilla et al.
+- [Implicit Neural Representations for Image Compression](https://arxiv.org/pdf/2112.04267.pdf) | Strümpler et al.
+- [End-to-End Learned Image Compression with Quantized Weights and Activations](https://arxiv.org/pdf/2111.09348.pdf) | Sun et al.
+
+### <span id="2020">2020</span> 
+
+**Note**: 2020 was a transitional year with many foundational works. Key papers from this period established the basis for modern learned compression architectures and were often published in journal versions of earlier conference submissions.
+
+### <span id="2019">2019</span> 
+
+**CVPR 2019**
+- [Learning image and video compression through spatial-temporal energy compaction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Learning_Image_and_Video_Compression_Through_Spatial-Temporal_Energy_Compaction_CVPR_2019_paper.pdf) | Cheng et al.
+
+**PCS 2019**
+- [A novel deep progressive image compression framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954500) | Cai et al.
+
+### <span id="2018">2018</span> 
+
+**Foundational Years**: 2018 marked the emergence of several key architectures that would define the field, including:
+- Balle et al.'s hyperprior models
+- Early works on entropy modeling for neural compression
+- Initial explorations of generative models for compression
+
+### <span id="2017">2017</span>
+
+**Pioneering Works**: 2017 featured the seminal papers that established the field of learned image compression:
+- End-to-end optimized image compression (Balle et al., ICLR)
+- Early variational approaches to neural compression
+- Foundational works combining deep learning with traditional compression concepts
+- 
 ---
 
 ## 🔍 How to Use This Repository
