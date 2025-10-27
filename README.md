@@ -32,7 +32,7 @@
 
 ## 🔬 Research Areas
 
-### <span id="generative-compression">🔄 Generative Compression</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="generative-compression">🔄 Generative Compression</span>
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -70,7 +70,7 @@
 | [Generative Latent Coding for Ultra-Low Bitrate Image Compression](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf) | CVPR 2024 |
 | [CMC-Bench: Towards a New Paradigm of Visual Signal Compression](https://arxiv.org/abs/2406.09356) | arXiv 2024 |
 
-### <span id="lossless-compression">📏 Lossless Compression</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="lossless-compression">📏 Lossless Compression</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -84,7 +84,7 @@
 | [Hybrid-context-based multi-prior entropy modeling for learned lossless image compression](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003832) | Pattern Recognition 2024 |
 | [Learned Lossless Image Compression based on Bit Plane Slicing](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Learned_Lossless_Image_Compression_based_on_Bit_Plane_Slicing_CVPR_2024_paper.pdf) | CVPR 2024 |
 
-### <span id="variable-ratescalable-compression">🎛️ Variable Rate/Scalable Compression</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="variable-ratescalable-compression">🎛️ Variable Rate/Scalable Compression</span>
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -95,7 +95,7 @@
 | [STanH: Parametric Quantization for Variable Rate Learned Image Compression](https://arxiv.org/pdf/2410.00557) | arXiv 2024 |
 | [RAQ-VAE: Rate-Adaptive Vector-Quantized Variational Autoencoder](https://arxiv.org/pdf/2405.14222) | arXiv 2024 |
 
-### <span id="quantization">⚖️ Quantization</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="quantization">⚖️ Quantization</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -110,7 +110,7 @@
 | [Image and Video Tokenization with Binary Spherical Quantization](https://arxiv.org/pdf/2406.07548) | arXiv 2024 |
 | [NLIC: Non-uniform Quantization based Learned Image Compression](https://ieeexplore.ieee.org/abstract/document/10531761) | TCSVT 2024 |
 
-### <span id="entropy-model">📊 Entropy Model</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="entropy-model">📊 Entropy Model</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -130,7 +130,7 @@
 | [Rethinking Learned Image Compression: Context is All You Need](https://arxiv.org/pdf/2407.11590) | arXiv 2024 |
 | [Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model](https://arxiv.org/pdf/2407.10632) | arXiv 2024 |
 
-### <span id="architecture">🏗️ Architecture</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="architecture">🏗️ Architecture</span>
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -168,7 +168,7 @@
 | [Rate-Distortion-Cognition Controllable Versatile Neural Image Compression](https://arxiv.org/pdf/2407.11700) | arXiv 2024 |
 | [MambaVC: Learned Visual Compression with Selective State Spaces](https://arxiv.org/pdf/2405.15413) | arXiv 2024 |
 
-### <span id="screen-content-image">💻 Screen Content Image</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="screen-content-image">💻 Screen Content Image</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -176,14 +176,14 @@
 | [Efficient Screen Content Image Compression via Superpixel-based Content Aggregation and Dynamic Feature Fusion](https://www.ijcai.org/proceedings/2024/0134.pdf) | IJCAI 2024 |
 | [DSCIC: Deep Screen Content Image Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10577165) | TCSVT 2024 |
 
-### <span id="hdr-image">🌈 HDR Image</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="hdr-image">🌈 HDR Image</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
 | [Breaking Boundaries: Unifying Imaging and Compression for HDR Image Compression](http://arxiv.org/abs/2407.13179v1) | TIP 2025 |
 | [Learned HDR Image Compression for Perceptually Optimal Storage and Display](https://arxiv.org/pdf/2407.13179) | arXiv 2024 |
 
-### <span id="image-coding-for-machine-vision">🤖 Image Coding for Machine Vision</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="image-coding-for-machine-vision">🤖 Image Coding for Machine Vision</span>
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -205,14 +205,14 @@
 | [Saliency Map-Guided End-to-End Image Coding for Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10574324) | SPL 2024 |
 | [Redundancy Removal Module for Reducing the Bitrates of Image Coding for Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10557851) | ISCAS 2024 |
 
-### <span id="medical-image">🏥 Medical Image</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="medical-image">🏥 Medical Image</span>
 
 | Title | Publication & Date |
 |:------|:------------------:|
 | [Versatile Volumetric Medical Image Coding for Human-Machine Vision](http://arxiv.org/abs/2412.09231v1) | arXiv 2024 |
 | [UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation](https://arxiv.org/pdf/2405.16850) | Arxiv 2024 |
 
-### <span id="implicit-neural-representation-inr">🧠 Implicit Neural Representation (INR)</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="implicit-neural-representation-inr">🧠 Implicit Neural Representation (INR)</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -221,21 +221,21 @@
 | [Redefining Visual Quality: The Impact of Loss Functions on INR-Based Image Compression](https://ieeexplore.ieee.org/abstract/document/10647328) | ICIP 2024 |
 | [Implicit Neural Image Field for Biological Microscopy Image Compression](https://ieeexplore.ieee.org/abstract/document/10647328) | ICIP 2024 |
 
-### <span id="panoramicstereo-image">🌐 Panoramic/Stereo Image</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="panoramicstereo-image">🌐 Panoramic/Stereo Image</span>
 
 | Title | Publication & Date |
 |:------|:------------------:|
 | [Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model](eccv2024.ecva.net//virtual/2024/poster/1797) | ECCV 2024 |
 | [Learning Content-Weighted Pseudocylindrical Representation for 360° Image Compression](https://ieeexplore.ieee.org/abstract/document/10721338) | ICIP 2024 |
 
-### <span id="benchmark--dataset--survey">📊 Benchmark & Dataset & Survey</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="benchmark--dataset--survey">📊 Benchmark & Dataset & Survey</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
 | [JPEG AI: The First International Standard for Image Coding Based on an End-to-End Learning-Based Approach](https://ieeexplore.ieee.org/document/10807668/) | IEEE MultiMedia 2024 |
 | [OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression](https://dl.acm.org/doi/pdf/10.1145/3664647.3685519) | ACMMM 2024 |
 
-### <span id="others">🔧 Others</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="others">🔧 Others</span> 
 
 | Title | Publication & Date |
 |:------|:------------------:|
@@ -259,7 +259,7 @@
 
 ## 📅 Chronological View
 
-### <span id="2025">2025</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="2025">2025</span> 
 
 **ICCV 2025**
 - [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947)
@@ -312,7 +312,7 @@
 - [An Efficient Adaptive Compression Method for Human Perception and Machine Vision Tasks](http://arxiv.org/abs/2501.04329v1)
 - [Unified Coding for Both Human Perception and Generalized Machine Analytics with CLIP Supervision](http://arxiv.org/abs/2501.04579v1)
 
-### <span id="2024">2024</span> [«🎯Back To Top»](#awesome--deep-learning-based-image-compression)
+### <span id="2024">2024</span> 
 
 **ECCV 2024**
 - [Rate-Distortion-Cognition Controllable Versatile Neural Image Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07338.pdf)
