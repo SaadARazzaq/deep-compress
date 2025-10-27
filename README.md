@@ -501,7 +501,7 @@
 - End-to-end optimized image compression (Balle et al., ICLR)
 - Early variational approaches to neural compression
 - Foundational works combining deep learning with traditional compression concepts
-- 
+  
 ---
 
 ## 🔍 How to Use This Repository
